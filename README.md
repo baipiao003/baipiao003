@@ -1,6 +1,8 @@
 ## Hi 👋 I'm baipiao003
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=baipiao003&show_icons=true&theme=solarized-light&count_private=true&show=prs_merged_percentage" alt="GitHub Stats" width="300">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baipiao003&theme=solarized-light&count_private=true" alt="Top Langs" width="300">
-</div>
+<a href="https://github.com/baipiao003">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=baipiao003&show_icons=true" />
+</a>
+<a href="https://github.com/baipiao003?tab=repositories">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=baipiao003&layout=compact&langs_count=8&card_width=220" />
+</a>
