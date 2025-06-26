@@ -5,5 +5,5 @@
 </a>
 
 <a href="https://github.com/baipiao003?tab=repositories">
-  <img align="center" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baipiao003&layout=compact&theme=solarized-light&count_private=true" />
+  <img align="center" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baipiao003&theme=solarized-light&count_private=true" />
 </a>
